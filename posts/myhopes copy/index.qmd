@@ -1,0 +1,10 @@
+---
+title: "എൻ്റെ പ്രതീക്ഷകൾ."
+author: "Akshay"
+date: "2024-08-06"
+categories: [Life]
+image: "output.jpg"
+---
+hi
+
+![](output.jpg)
