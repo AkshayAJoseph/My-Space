@@ -1,5 +1,5 @@
 ---
-title: "My_Blog"
+title: "My Blogspot"
 listing:
   contents: posts
   sort: "date desc"
