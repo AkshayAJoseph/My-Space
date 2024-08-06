@@ -1,0 +1,10 @@
+---
+title: "An Insight to a Happier Life."
+author: "Akshay"
+date: "2024-08-06"
+categories: [life]
+---
+
+Happiness doesn’t have to be an elusive dream. It can be woven into the fabric of our daily routines through small, mindful practices.
+
+![](thumbnail.jpg)
