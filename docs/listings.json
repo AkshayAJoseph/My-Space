@@ -2,11 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/AI_blog/index.html",
       "/posts/little_happiness/index.html",
+      "/posts/multiling/index.html",
       "/posts/myhopes/index.html",
-      "/posts/New_Thoughts/index.html",
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/New_Thoughts/index.html"
     ]
   }
 ]

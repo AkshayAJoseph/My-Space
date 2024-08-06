@@ -2,7 +2,7 @@
 title: "AI: Humanity's Final Invention?"
 author: "Akshay"
 date: "2024-08-06"
-categories: [life] [technology] [AI]
+categories: [technology]
 ---
 
 Artificial Intelligence (AI) is revolutionizing our daily lives, making what once seemed like science fiction a reality. Picture an AI system that can diagnose illnesses faster than doctors, drive us safely to our destinations, or manage our finances with incredible precision. This technology has the potential to solve some of our most pressing problems and improve our quality of life in unimaginable ways. However, as AI grows smarter and more capable, we must ask ourselves- Could AI become so advanced that it starts to innovate on its own, solving problems beyond human comprehension? This possibility is both exciting and daunting.
