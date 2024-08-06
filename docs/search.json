@@ -14,11 +14,11 @@
     "text": "In the world of digital content creation, finding the right tools that balance simplicity and power can be a game-changer. Quarto is one such tool that’s gaining traction among writers, bloggers, and data analysts for its ease of use and robust features. Whether you’re a seasoned content creator or just starting, Quarto offers an intuitive platform to publish beautiful documents and websites seamlessly. Quarto is an open-source scientific and technical publishing system that simplifies the creation of documents, presentations, websites, and more. It supports a range of formats, including HTML, PDF, and ePub, making it versatile for various publishing needs. Built on top of Pandoc, Quarto integrates well with R, Python, and Julia, catering to the needs of data scientists and researchers.\nQuarto stands out due to its simplicity, versatility, and integration with popular data science tools. With straightforward syntax and commands, you can quickly convert plain text documents into polished outputs. It supports multiple output formats, allowing you to reach your audience through their preferred medium. For data scientists, Quarto’s seamless integration with R, Python, and Julia is a significant advantage, enabling the embedding of code and generation of dynamic content. Additionally, Quarto offers extensive customization options to tweak the appearance of documents and add interactive elements. Installing Quarto is straightforward, and once installed, you can create, write, render, and publish your content efficiently. Whether you’re a blogger, researcher, or data analyst, Quarto provides a streamlined path from idea to publication, making modern publishing both easy and powerful."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My_Blog",
+    "objectID": "posts/little_happiness/index.html",
+    "href": "posts/little_happiness/index.html",
+    "title": "ചെറിയ സന്തോഷങ്ങൾ.",
     "section": "",
-    "text": "എൻ്റെ പ്രതീക്ഷകൾ.\n\n\n\n\n\n\nLife\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nAkshay\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto: Revolutionize Your Publishing with Simplicity and Power.\n\n\n\n\n\n\nNew Learning\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nAkshay\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nAn Insight to a Happier Life.\n\n\n\n\n\n\nlife\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nAkshay\n\n\n\n\n\n\nNo matching items"
+    "text": "ജീവിതം വലിയ ആഘോഷങ്ങൾ മാത്രമല്ല, ചെറുചെറിയ സന്തോഷങ്ങളാൽ നിറഞ്ഞിരിക്കുന്നു. ഒരു നല്ല കപ്പു ചായയുടെ ചൂട്, പ്രിയപ്പെട്ടവരുമായി ഒരു സ്നേഹമേറിയ സംഭാഷണം, അല്ലെങ്കിൽ ഒരു മനോഹരമായ പെയിൻ്റിൻ്റെ സ്നേഹം-ഇവ എല്ലാവരും നിൻ്റെ ഹൃദയത്തെ ചൂടാക്കുന്നു. ഒരു ചിരി പങ്കുവെക്കൽ, ഒരു ഉദ്ദേശിക്കാത്ത സന്ദർശനം, ഒരു കുളിരുള്ള കപ്പു ചായ—ഈ ചെറിയ കാര്യങ്ങൾ നമ്മുക്ക് ഒരു വലിയ സന്തോഷം നൽകുന്നു.\nചെറിയ സന്തോഷങ്ങളെ കുറിച്ച് ചിന്തിക്കുമ്പോൾ, അവയുടെ വലിപ്പം അല്ല, അവയിലൂടെ ലഭിക്കുന്ന സന്തോഷം പ്രധാനം. ഒരു നിമിഷം, ഒരു ചെറുപാട്ടം, ഒരു സ്നേഹത്തിൻ്റെ കുന്നി—ഈ അനുഭവങ്ങൾ മാത്രം നമ്മളെ ഓർമിപ്പിക്കുന്നു ജീവിതം എത്ര മനോഹരമായിട്ടുള്ളൂ. ചെറിയ സന്തോഷങ്ങൾ നാം ഓരോ ദിവസവും വിലമതിക്കാൻ പഠിക്കുമ്പോൾ, ജീവിതം കൂടുതൽ സുഖകരവും സമാധാനകരവുമാണ്."
   },
   {
     "objectID": "about.html",
@@ -26,6 +26,13 @@
     "title": "About",
     "section": "",
     "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My_Blog",
+    "section": "",
+    "text": "ചെറിയ സന്തോഷങ്ങൾ.\n\n\n\n\n\n\nLife\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nAkshay\n\n\n\n\n\n\n\n\n\n\n\n\nഎൻ്റെ പ്രതീക്ഷകൾ.\n\n\n\n\n\n\nLife\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nAkshay\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto: Revolutionize Your Publishing with Simplicity and Power.\n\n\n\n\n\n\nNew Learning\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nAkshay\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nAn Insight to a Happier Life.\n\n\n\n\n\n\nlife\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nAkshay\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/myhopes/index.html",
